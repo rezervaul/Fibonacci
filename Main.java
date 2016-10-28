@@ -21,7 +21,7 @@ public class Main {
 	public static ArrayList<Integer> fibonacci(int parametr) {
 		ArrayList<Integer> list = new ArrayList<>();
 		list.add(1);
-		list.add(2);
+		list.add(1);
 		int sum;
 		int i = 0;
 		for (;;) {
